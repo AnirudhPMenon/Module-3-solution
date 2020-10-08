@@ -18,6 +18,7 @@ body{
     background-color: white;
     border: 1px solid black;
     text-align: center;
+    font-family:  'Roboto Mono', monospace;
    }
 
 
@@ -70,7 +71,6 @@ body{
 #nav-list a:hover{
   background: #A9A9A9;
 }
-
 
 
    
